@@ -4,9 +4,9 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "version.json": "a29e8b22a08aa0274b027931eec216c4",
-"index.html": "fb095e53fcccd29c2a32ccdb72683538",
-"/": "fb095e53fcccd29c2a32ccdb72683538",
-"main.dart.js": "a44c97fe84170bfeaf22224e497f785b",
+"index.html": "beb72e0475d94aed82c0288023bbdda7",
+"/": "beb72e0475d94aed82c0288023bbdda7",
+"main.dart.js": "197bfdf5c842d44e9593bdaacdfd32cf",
 "flutter.js": "f85e6fb278b0fd20c349186fb46ae36d",
 "favicon.png": "61b493df9635f221d909421e8769acb0",
 "icons/Icon-192.png": "002516a4b23f153b7ac2928347c377b1",
@@ -66,7 +66,7 @@ const RESOURCES = {
 "assets/assets/projects/messenger.png": "f28ead750653b586737ed63db6f2d53a",
 "assets/assets/projects/covid.png": "27c600501d335324e8fce4c5d6c22b76",
 "assets/assets/projects/hotel_booking.png": "89f1fbbdc7d80e4a6292622d7f929690",
-"assets/assets/projects/quranB.png": "3cf070457b64cf93d11ad2073bff88e2",
+"assets/assets/projects/quranB.png": "e90e885dffef3f1336d684056c41652c",
 "assets/assets/projects/snackbar.png": "426d7d3320b4207468e1dec6322b3b08",
 "assets/assets/projects/covidB.png": "1884ac58a9de5d81e995f1e46e4b7398",
 "assets/assets/work/st.png": "0957bd1682c5a518247a1844656c0f7e",
